@@ -21,3 +21,11 @@ body {
     color: antiquewhite;
     background-image: url("images/Background.jpg");
 }
+.social {
+    font-size: 24px;
+}
+.social a {
+    color: black;
+    text-decoration: none;
+    
+}
